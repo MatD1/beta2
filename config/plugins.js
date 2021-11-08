@@ -2,7 +2,7 @@ module.exports = {
   upload: {
       provider: 'google-cloud-storage',
       providerOptions: {
-          bucketName: 'easyhsc',
+          bucketName: 'eftglobal',
           publicFiles: true,
           uniform: false,
           serviceAccount: {
